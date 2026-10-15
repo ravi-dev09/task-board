@@ -1,0 +1,14 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "description": "A simple full-stack task manager built with Node.js, Express and vanilla JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
